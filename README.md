@@ -1,2 +1,3 @@
 # WeatherApp
-What's weather like?
+Check what's the weather like in your town.
+<br>Training code :)
